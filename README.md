@@ -9,23 +9,6 @@
 
 ---
 
-## Tabla de Contenidos
-
-- [Descripción del Proyecto](#-descripción-del-proyecto)
-- [Objetivos](#-objetivos)
-- [Alcance del Testing](#-alcance-del-testing)
-- [Metodología](#-metodología)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Documentación](#-documentación)
-- [Resultados y Métricas](#-resultados-y-métricas)
-- [Defectos Encontrados](#-defectos-encontrados)
-- [Tecnologías y Herramientas](#-tecnologías-y-herramientas)
-- [Cómo Navegar este Proyecto](#-cómo-navegar-este-proyecto)
-- [Habilidades Demostradas](#-habilidades-demostradas)
-- [Contacto](#-contacto)
-
----
-
 ## Descripción del Proyecto
 
 Este proyecto representa un **ciclo completo de testing manual** realizado sobre la tienda demo de Prestashop ([demo.prestashop.com](https://demo.prestashop.com/)), una plataforma de e-commerce ampliamente utilizada. El objetivo es demostrar habilidades profesionales en Quality Assurance mediante la validación exhaustiva de funcionalidades críticas del sistema.
@@ -276,4 +259,5 @@ Si tienes preguntas sobre este proyecto o estás interesado en discutir oportuni
 [📧 Enviar Email](mailto:josuelegeon.com) | [💼 Ver LinkedIn](https://linkedin.com/in/josuelegeon) | [🐙 GitHub Profile](https://github.com/josuelegeon)
 
 </div>
+
 
